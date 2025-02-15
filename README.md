@@ -4,9 +4,9 @@
 
 <p>
 VoxMovie is your ultimate movie discovery app, connecting you to a vast library of films from around the world.
-With VoxMovie app, you'll never run out of great movies to watch! In this project. 
-In this project we fetch movie data from an API, we use a movie APIs that provide comprehensive movie-related information.
-We use the api endpoints to fetch movie data. 🎬🍿
+With VoxMovie app, you'll never run out of great movies to watch! 
+In this project we use a movie APIs that provide comprehensive movie-related information.
+ We use the api endpoints to fetch movie data. 🎬🍿
 
 </p>
 <img src="home.png" alt="Home Banner" width="50%"/>
@@ -35,7 +35,7 @@ This section would allow users to easily navigate through different screen, help
     <h1></h1>
     <img src="searchresult3.png" alt="Home Banner" width="50%" />
     <h1></h1>
-  <img src="search.png" alt="Home Banner" width="50%" />
+
 </div>
 
 
